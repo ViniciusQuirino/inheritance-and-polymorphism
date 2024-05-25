@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/vinicius/Área de Trabalho/C#/inheritance-and-polymorphism/Course/Course.csproj": {}
+    "/home/vinicius/Área de Trabalho/inheritance-and-polymorphism/Course/Course.csproj": {}
   },
   "projects": {
-    "/home/vinicius/Área de Trabalho/C#/inheritance-and-polymorphism/Course/Course.csproj": {
+    "/home/vinicius/Área de Trabalho/inheritance-and-polymorphism/Course/Course.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vinicius/Área de Trabalho/C#/inheritance-and-polymorphism/Course/Course.csproj",
+        "projectUniqueName": "/home/vinicius/Área de Trabalho/inheritance-and-polymorphism/Course/Course.csproj",
         "projectName": "Course",
-        "projectPath": "/home/vinicius/Área de Trabalho/C#/inheritance-and-polymorphism/Course/Course.csproj",
+        "projectPath": "/home/vinicius/Área de Trabalho/inheritance-and-polymorphism/Course/Course.csproj",
         "packagesPath": "/home/vinicius/.nuget/packages/",
-        "outputPath": "/home/vinicius/Área de Trabalho/C#/inheritance-and-polymorphism/Course/obj/",
+        "outputPath": "/home/vinicius/Área de Trabalho/inheritance-and-polymorphism/Course/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vinicius/.nuget/NuGet/NuGet.Config"
