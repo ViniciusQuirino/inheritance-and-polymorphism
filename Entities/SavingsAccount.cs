@@ -1,4 +1,4 @@
-namespace Course.Entities
+﻿namespace Course.Entities
 {
     class SavingsAccount : Account
     {
@@ -17,6 +17,12 @@ namespace Course.Entities
         public void UpdateBalance()
         {
             Balance += Balance * InterestRate;
+        }
+
+        public override void Withdraw(double amount)
+        {
+            base.Withdraw(amount);
+            Balance -= 2.0;
         }
     }
 }
