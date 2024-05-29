@@ -21,10 +21,5 @@ namespace Course.Entities
                 Balance += amount;
             }
         }
-
-        public override void Withdraw(double amount)
-        {
-            Balance -= amount;
-        }
     }
 }
